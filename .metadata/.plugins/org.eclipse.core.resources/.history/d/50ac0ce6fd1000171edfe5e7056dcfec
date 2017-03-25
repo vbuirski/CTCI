@@ -1,0 +1,14 @@
+package au.com.ctci;
+
+import java.util.LinkedList;
+
+public final class LinkedListTest {
+
+	public static void main(String args{]){
+		
+	
+	LinkedList<Integer> myList = new LinkedList<>();
+
+	myList.
+	}
+}

@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Rename package &apos;au.com.ctci.linkedlist&apos; to &apos;au.com.ctci&apos;&#x0D;&#x0A;- Original project: &apos;LinkedList&apos;&#x0D;&#x0A;- Original element: &apos;LinkedList/src/au.com.ctci.linkedlist&apos;&#x0D;&#x0A;- Renamed element: &apos;LinkedList/src/au.com.ctci&apos;&#x0D;&#x0A;- Update references to refactored element&#x0D;&#x0A;- Update textual occurrences in comments and strings" description="Rename package &apos;au.com.ctci.linkedlist&apos;" flags="589830" hierarchical="false" id="org.eclipse.jdt.ui.rename.package" input="/src&lt;au.com.ctci.linkedlist" name="au.com.ctci" qualified="false" references="true" stamp="1490406692735" textual="false" version="1.0"/>
+</session>
